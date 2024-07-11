@@ -5,6 +5,6 @@ includedir=${prefix}/include
 
 Name: EGL
 Description: PowerVR EGL library
-Version: 7.10
+Version: 8.14
 Libs: -L${libdir} -lEGL -lIMGegl -ldrm_omap -lsrv_um
 Cflags: -I${includedir}

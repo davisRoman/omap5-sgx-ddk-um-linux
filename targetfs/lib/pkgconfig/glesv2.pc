@@ -5,6 +5,6 @@ includedir=${prefix}/include
 
 Name: GLESv2
 Description: PowerVR GLESv2 library
-Version: 7.10
+Version: 8.14
 Libs: -L${libdir} -lGLESv2 -lsrv_um
 Cflags: -I${includedir}
